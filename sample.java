@@ -1,3 +1,4 @@
+/* sample code*/
 class Trainee{
     public static int choc=100;
     public int id;
